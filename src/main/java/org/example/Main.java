@@ -12,7 +12,7 @@ public class Main {
         trie.insert("carne");
         trie.insert("camino");
         trie.insert("carro");
-*/ hoal
+
         System.out.println(trie.search("carro")); // true
         System.out.println(trie.search("carta")); // false
 
